@@ -24,27 +24,25 @@ I decided to work only with data from 2020 because it interests me how Citi Bike
 # Findings:
 During 2020, Subscribers to the platform were predominantly Male. It can also be seen that Customers don't trust the plastform enough to share their Gender.
 
-m
+![dem](Images/Dem_1.png)
 
 By the end of 2020, we can see that approximately 60% of the users of Citi Bike are 26 to 35 and 46 to 55 years old.
 
-m
+![dem](Images/Dem_2.png)
 
 Regarding the number of trips, they took a hit during the beginning of the pandemic. However, users started using the service more until a decline in October, likely due to the colder temperatures.
 
-m
-
 Interestingly, the trips made in 2020 by Subscribers, with the pandemic going on, were lasting much more than the trips made by Customers. I pin this on the fact that most people in Manhattan do not own personal vehicles for transportation and were not willing to risk getting in a cab with someone they do not know.
 
-m
+![use](Images/Use_1.png)
 
 The Top 10 Starting and Ending Stations are basically the same throughout the year.
 
-m
+![stat](Images/Stat_1.png)
 
 It's worth noting how the stations that see the most usage are in Lower Manhattan. These stations probably need regular maintenance to assure users that they won't break down.
 
-m
+![stat](Images/Stat_2.png)
 
 -----
 
